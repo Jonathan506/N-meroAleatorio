@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\bin\Debug\netcoreapp3.1\Gitprueba.exe
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\bin\Debug\netcoreapp3.1\Gitprueba.deps.json
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\bin\Debug\netcoreapp3.1\Gitprueba.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\bin\Debug\netcoreapp3.1\Gitprueba.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\bin\Debug\netcoreapp3.1\Gitprueba.dll
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\bin\Debug\netcoreapp3.1\Gitprueba.pdb
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.dll
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.pdb
+C:\Users\Jonathan\Desktop\Git\Gitprueba\Gitprueba\obj\Debug\netcoreapp3.1\Gitprueba.genruntimeconfig.cache
