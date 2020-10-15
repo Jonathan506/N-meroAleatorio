@@ -7,7 +7,7 @@ namespace Gitprueba
         static void Main(string[] args)
         {
             // la siguiente instrucción es para mandar numeros aleatorios
-            Console.WriteLine(" Este progama dará como resultado un número aleatorio, es su deber adivinar qué número es ");
+            Console.WriteLine(" Este progama dará como resultado un número aleatorio, debes de adivinar qué número es ");
 
             Random numero = new Random();
 
@@ -48,7 +48,7 @@ namespace Gitprueba
                     Console.WriteLine();
                     Console.WriteLine(" Quizas un poco más alto ");
                 }
-                else
+                else if(num> numeroAleatorio)
                 {
                     Console.WriteLine();
                     Console.WriteLine(" Quizas un poco más abajo ");
